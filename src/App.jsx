@@ -2,7 +2,7 @@ import { BrowserRouter, Routes, Route, Navigate } from "react-router-dom";
 import Home from "./pages/Home";
 import Category from "./pages/Category";
 import Expense from "./pages/Expense.jsx";
-import Income from "./pages/Income.jsx";
+import Income from "./pages/income.jsx";
 import Login from "./pages/Login.jsx";
 import Signup from "./pages/Signup.jsx";
 import Filter from "./pages/Filter.jsx";
